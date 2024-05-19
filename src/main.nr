@@ -1,6 +1,8 @@
 /**
 * The following circuit is a simplified version of Ocelots' circuits
-* available here: https://github.com/ocelots-app/passport-verifier 
+* available here: https://github.com/ocelots-app/passport-verifier
+* The date library is identical to this one: https://github.com/madztheo/noir-date
+* except that the compiler_version is set to 0.19.0 instead of 0.22.0
 */
 
 use dep::date::Date;
