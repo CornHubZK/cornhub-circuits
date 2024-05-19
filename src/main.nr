@@ -1,3 +1,8 @@
+/**
+* The following circuit is a simplified version of Ocelots' circuits
+* available here: https://github.com/ocelots-app/passport-verifier 
+*/
+
 use dep::date::Date;
 
 // Index for the date of birth (YYMMDD)
